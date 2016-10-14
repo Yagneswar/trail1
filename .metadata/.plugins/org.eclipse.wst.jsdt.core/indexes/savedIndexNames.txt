@@ -1,0 +1,7 @@
+INDEX VERSION 1.3+E:\YagnesEcommerce\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+695213034.index
+3447375514.index
+1215693467.index
+1874341565.index
+3130988147.index
+153372924.index
